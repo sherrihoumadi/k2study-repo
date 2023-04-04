@@ -2,4 +2,4 @@
 I hope to learn how to ingest and clean data as well as create meaningful dashboards.
 ## Subheader
 
-Watch tutorial on YouTube and learn how to use git and generate an ssh key.
+Need to add more verbiage to this readme.
